@@ -11,7 +11,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 
 # Load the pre-trained model
-model = load_model('C:/Users/rohan/stock  market/Stock_Predictions_Model1.keras')
+model = load_model('C:/Users/PC/Desktop/Desktop Icons/Stock market prediction/stock3.0/Stock_Predictions_Model1.keras')
 
 # Set up the Streamlit app layout
 st.title('Stock Market Predictor')
